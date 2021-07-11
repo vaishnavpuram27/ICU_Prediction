@@ -5,7 +5,7 @@ So, the dataset for this project is taken from kaggle.<br>
 ## COVID-19 - Clinical Data to assess diagnosis 
 Link for the dataset : https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
 <br><br>
-## The project
+## The Project
 The notebook to refer is the final.ipynb <br>
 Our aim was to find a patient who is suffering from COVID should be admited to an ICU or not. <br>
 The data for each patient is taken for a window size of 2 hours from the time they are admited to the hospital to 12 hours. <br>
