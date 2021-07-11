@@ -18,11 +18,11 @@ Few factors were about :
 <li>Type of diseases they are suffering</li>
 <li>Etc..</li>
 </ul>
-<br><br>
+<br>
 After the getting the insights we built few machine learning models like,
 <li>SVM</li>
 <li>Random forest classifer</li>
 <li> Logistic Regression </li>
 <br><br>
-So, when seen in the notebook the accuracy for all models are less than 90% which is pretty bad . The next step for this project is to increase the accuracy, for we need to tune our model or add more factors in our model.<br>
-Will be updating the notebook and the readme file soon after we increase the accuracies of our models.
+So, when seen in the notebook the accuracy for all models are less than 90% which is pretty bad . The next step for this project is to increase the accuracy, for which we need to tune our models or add more factors in our models.<br>
+Will be updating the notebook and the readme file soon after we increase the accuracy of our models.
